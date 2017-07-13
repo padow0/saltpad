@@ -4,7 +4,7 @@
   "author": "Boris Feld",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tinyclues/saltpad.git"
+    "url": "https://github.com/Lothiraldan/saltpad"
   },
   "dependencies": {
     "react": "^0.14.5",
