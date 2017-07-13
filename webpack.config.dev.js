@@ -19,7 +19,7 @@ module.exports = {
   resolve: {
     extensions: ['', '.js', '.jsx', '.css'],
     // Tell webpack to look for required files in bower and node
-    modulesDirectories: ['bower_components', 'node_modules']
+    // modulesDirectories: ['bower_components', 'node_modules']
   },
   module: {
     loaders: [
